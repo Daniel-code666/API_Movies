@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "XzvrI06g2ofPGdxmJNeOdm44r87wrVYGFRJBktnjivQ=",
+  "Source": "API_Movies",
+  "BasePath": "_content/API_Movies",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API_Movies\\wwwroot",
+      "Source": "API_Movies",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\",
+      "BasePath": "_content/API_Movies",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\Images\\31d60a51-0af1-47b9-b7f3-132b6e43bc59.jpg",
+      "SourceId": "API_Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\",
+      "BasePath": "_content/API_Movies",
+      "RelativePath": "Images/31d60a51-0af1-47b9-b7f3-132b6e43bc59.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\31d60a51-0af1-47b9-b7f3-132b6e43bc59.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\Images\\56eaae7f-56c5-4ab6-b268-a97b6d905181.jpg",
+      "SourceId": "API_Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\",
+      "BasePath": "_content/API_Movies",
+      "RelativePath": "Images/56eaae7f-56c5-4ab6-b268-a97b6d905181.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\56eaae7f-56c5-4ab6-b268-a97b6d905181.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\Images\\81272dc7-1f62-425b-8f05-5552c6bf1aed.jpg",
+      "SourceId": "API_Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\",
+      "BasePath": "_content/API_Movies",
+      "RelativePath": "Images/81272dc7-1f62-425b-8f05-5552c6bf1aed.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\81272dc7-1f62-425b-8f05-5552c6bf1aed.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\Images\\93a29464-6052-4725-a650-88d2ff042310.jpg",
+      "SourceId": "API_Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\API_Movies\\wwwroot\\",
+      "BasePath": "_content/API_Movies",
+      "RelativePath": "Images/93a29464-6052-4725-a650-88d2ff042310.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\93a29464-6052-4725-a650-88d2ff042310.jpg"
+    }
+  ]
+}
